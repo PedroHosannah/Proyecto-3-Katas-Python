@@ -1,7 +1,7 @@
 # Proyecto 3 - Katas Python
 
 ## Autor
-Pedro Hosannah
+Pedro Hosannah Navas
 
 ## Descripción
 Este repositorio contiene los 40 ejercicios del Proyecto 3 de Python. Los ejercicios están resueltos con código sencillo, funcional y ordenado.
